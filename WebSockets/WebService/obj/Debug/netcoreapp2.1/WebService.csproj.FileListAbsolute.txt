@@ -11,3 +11,11 @@ D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebService\obj\Debug\netcor
 D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebService\obj\Debug\netcoreapp2.1\WebService.RazorTargetAssemblyInfo.cache
 D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebService\obj\Debug\netcoreapp2.1\WebService.dll
 D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebService\obj\Debug\netcoreapp2.1\WebService.pdb
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebService\bin\Debug\netcoreapp2.1\WebSocketManager.Client.dll
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebService\bin\Debug\netcoreapp2.1\WebSocketManager.Common.dll
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebService\bin\Debug\netcoreapp2.1\WebSocketManager.dll
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebService\bin\Debug\netcoreapp2.1\WebSocketManager.Client.pdb
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebService\bin\Debug\netcoreapp2.1\WebSocketManager.Common.pdb
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebService\bin\Debug\netcoreapp2.1\WebSocketManager.pdb
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebService\obj\Debug\netcoreapp2.1\WebService.csprojAssemblyReference.cache
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebService\obj\Debug\netcoreapp2.1\WebService.csproj.CopyComplete
