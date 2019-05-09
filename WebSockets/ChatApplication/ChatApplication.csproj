@@ -11,14 +11,16 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <OutputPath>..\..\..\websocke t-manager\samples\ChatApplication\bin\Release\netcoreapp2.0</OutputPath>
   </PropertyGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\src\WebSocketManager\WebSocketManager.csproj" />
-    <ProjectReference Include="..\..\src\WebSocketManager.Common\WebSocketManager.Common.csproj" />
-  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.0.0" />
     <PackageReference Include="Microsoft.AspNetCore" Version="2.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\src\WebSocketManager.Client\WebSocketManager.Client.csproj" />
+    <ProjectReference Include="..\src\WebSocketManager.Common\WebSocketManager.Common.csproj" />
+    <ProjectReference Include="..\src\WebSocketManager\WebSocketManager.csproj" />
   </ItemGroup>
 </Project>
