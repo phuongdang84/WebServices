@@ -12456,9 +12456,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\WebService\\WebService.csproj",
-      "projectName": "WebService",
-      "projectPath": "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\WebService\\WebService.csproj",
+      "projectUniqueName": "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\WebService\\WebApp.csproj",
+      "projectName": "WebApp",
+      "projectPath": "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\WebService\\WebApp.csproj",
       "packagesPath": "C:\\Users\\phuong.dang\\.nuget\\packages\\",
       "outputPath": "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\WebService\\obj\\",
       "projectStyle": "PackageReference",

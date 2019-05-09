@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 using System.Reflection;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
-using WebSocketManager.Common;
+using WebService.Common;
 using System.Collections.Generic;
 
-namespace WebSocketManager
+namespace WebService
 {
     public abstract class WebSocketHandler
     {

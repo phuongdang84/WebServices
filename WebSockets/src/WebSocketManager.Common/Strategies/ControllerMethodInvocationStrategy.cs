@@ -6,12 +6,12 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WebSocketManager.Common
+namespace WebService.Common
 {
     /// <summary>
     /// The controller method invocation strategy. Finds methods in a single class using reflection.
     /// </summary>
-    /// <seealso cref="WebSocketManager.Common.MethodInvocationStrategy"/>
+    /// <seealso cref="WebService.Common.MethodInvocationStrategy"/>
     public class ControllerMethodInvocationStrategy : MethodInvocationStrategy
     {
         /// <summary>

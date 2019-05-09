@@ -6,12 +6,12 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WebSocketManager.Common
+namespace WebService.Common
 {
     /// <summary>
     /// The decorated controller method invocation strategy. Finds methods in several classes using reflection.
     /// </summary>
-    /// <seealso cref="WebSocketManager.Common.ControllerMethodInvocationStrategy"/>
+    /// <seealso cref="WebService.Common.ControllerMethodInvocationStrategy"/>
     public class DecoratedControllerMethodInvocationStrategy : MethodInvocationStrategy
     {
         /// <summary>

@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 
-using WebSocketManager;
+using WebService;
 
 namespace ChatApplication
 {

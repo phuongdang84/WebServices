@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 
-using WebSocketManager.Common;
+using WebService.Common;
 
-namespace WebSocketManager.Client
+namespace WebService.Client
 {
     public class Connection
     {

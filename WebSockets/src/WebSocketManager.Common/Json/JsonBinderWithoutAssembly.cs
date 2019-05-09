@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json.Serialization;
 using System;
 
-namespace WebSocketManager.Common
+namespace WebService.Common
 {
     /// <summary>
     /// Finds types without looking at the assembly.

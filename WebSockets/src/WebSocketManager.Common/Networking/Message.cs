@@ -1,4 +1,4 @@
-﻿namespace WebSocketManager.Common
+﻿namespace WebService.Common
 {
     public enum MessageType
     {

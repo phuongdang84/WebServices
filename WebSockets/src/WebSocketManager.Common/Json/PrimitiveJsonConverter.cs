@@ -2,7 +2,7 @@
 using System;
 using System.Runtime.Serialization.Formatters;
 
-namespace WebSocketManager.Common
+namespace WebService.Common
 {
     /// <summary>
     /// https://stackoverflow.com/questions/25007001/json-net-does-not-preserve-primitive-type-information-in-lists-or-dictionaries-o?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa

@@ -5,7 +5,7 @@ using System.Net.WebSockets;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WebSocketManager.Common
+namespace WebService.Common
 {
     /// <summary>
     /// The string method invocation strategy. Finds methods by registering the names and callbacks.

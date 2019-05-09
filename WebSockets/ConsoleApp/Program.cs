@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
-using WebSocketManager.Client;
-using WebSocketManager.Common;
+using WebService.Client;
+using WebService.Common;
 
 namespace ConsoleApp
 {

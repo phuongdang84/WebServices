@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System;
 
-namespace WebSocketManager.Common
+namespace WebService.Common
 {
     /// <summary>
     /// Represents a method name with parameters that is to be executed remotely.

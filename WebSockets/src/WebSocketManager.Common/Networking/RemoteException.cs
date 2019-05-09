@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System;
 
-namespace WebSocketManager.Common
+namespace WebService.Common
 {
     /// <summary>
     /// An exception that occured remotely.

@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace WebSocketManager
+namespace WebService
 {
     public static class WebSocketManagerExtensions
     {

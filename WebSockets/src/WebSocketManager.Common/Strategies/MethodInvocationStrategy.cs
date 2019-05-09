@@ -5,7 +5,7 @@ using System.Net.WebSockets;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WebSocketManager.Common
+namespace WebService.Common
 {
     /// <summary>
     /// The base class of all method invocation strategies.

@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System;
 
-namespace WebSocketManager.Common
+namespace WebService.Common
 {
     /// <summary>
     /// Represents the return value of a method that was executed remotely.

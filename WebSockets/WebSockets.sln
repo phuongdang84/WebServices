@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebSocketManager.Client", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebSocketManager.Common", "src\WebSocketManager.Common\WebSocketManager.Common.csproj", "{AEE5D2B5-C0DE-481F-B871-5D71772D2714}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebService\WebService.csproj", "{400D4BEE-1DFA-4BE7-873B-46781573FB2B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebService\WebApp.csproj", "{400D4BEE-1DFA-4BE7-873B-46781573FB2B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{AC740143-31FB-438E-AF46-9F126592B8D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServices", "WebServices\WebServices.csproj", "{F80F057E-3BCF-497F-BDE9-C875DE6B42A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{AC740143-31FB-438E-AF46-9F126592B8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC740143-31FB-438E-AF46-9F126592B8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC740143-31FB-438E-AF46-9F126592B8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F80F057E-3BCF-497F-BDE9-C875DE6B42A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80F057E-3BCF-497F-BDE9-C875DE6B42A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80F057E-3BCF-497F-BDE9-C875DE6B42A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80F057E-3BCF-497F-BDE9-C875DE6B42A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

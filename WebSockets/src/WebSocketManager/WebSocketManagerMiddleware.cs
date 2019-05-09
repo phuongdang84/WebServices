@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
-using WebSocketManager.Common;
+using WebService.Common;
 
-namespace WebSocketManager
+namespace WebService
 {
     public class WebSocketManagerMiddleware
     {
