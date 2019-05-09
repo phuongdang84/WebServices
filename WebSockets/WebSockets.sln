@@ -5,7 +5,13 @@ VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebSockets", "WebSockets\WebSockets.csproj", "{107824FA-CF64-4FBC-A945-4538D0F18CA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebChat", "WebChat\WebChat.csproj", "{950E7825-7C77-4EFE-8E46-0CD7D0F81E64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatApplication", "ChatApplication\ChatApplication.csproj", "{02FE9047-202E-4C7E-8EB8-33F0D38C9FB8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebSocketManager", "src\WebSocketManager\WebSocketManager.csproj", "{74A1FA83-C105-43C1-A151-A95821200351}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebSocketManager.Client", "src\WebSocketManager.Client\WebSocketManager.Client.csproj", "{6F068597-519F-463E-B8F3-401E1F69EC53}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebSocketManager.Common", "src\WebSocketManager.Common\WebSocketManager.Common.csproj", "{AEE5D2B5-C0DE-481F-B871-5D71772D2714}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +23,22 @@ Global
 		{107824FA-CF64-4FBC-A945-4538D0F18CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{107824FA-CF64-4FBC-A945-4538D0F18CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{107824FA-CF64-4FBC-A945-4538D0F18CA7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{950E7825-7C77-4EFE-8E46-0CD7D0F81E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{950E7825-7C77-4EFE-8E46-0CD7D0F81E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{950E7825-7C77-4EFE-8E46-0CD7D0F81E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{950E7825-7C77-4EFE-8E46-0CD7D0F81E64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02FE9047-202E-4C7E-8EB8-33F0D38C9FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FE9047-202E-4C7E-8EB8-33F0D38C9FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02FE9047-202E-4C7E-8EB8-33F0D38C9FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02FE9047-202E-4C7E-8EB8-33F0D38C9FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74A1FA83-C105-43C1-A151-A95821200351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74A1FA83-C105-43C1-A151-A95821200351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74A1FA83-C105-43C1-A151-A95821200351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74A1FA83-C105-43C1-A151-A95821200351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F068597-519F-463E-B8F3-401E1F69EC53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F068597-519F-463E-B8F3-401E1F69EC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F068597-519F-463E-B8F3-401E1F69EC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F068597-519F-463E-B8F3-401E1F69EC53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE5D2B5-C0DE-481F-B871-5D71772D2714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE5D2B5-C0DE-481F-B871-5D71772D2714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE5D2B5-C0DE-481F-B871-5D71772D2714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE5D2B5-C0DE-481F-B871-5D71772D2714}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

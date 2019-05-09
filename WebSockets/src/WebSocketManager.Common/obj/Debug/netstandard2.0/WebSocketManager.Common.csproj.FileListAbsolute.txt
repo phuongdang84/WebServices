@@ -1,0 +1,9 @@
+D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager.Common\bin\Debug\netstandard2.0\WebSocketManager.Common.deps.json
+D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager.Common\bin\Debug\netstandard2.0\WebSocketManager.Common.dll
+D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager.Common\bin\Debug\netstandard2.0\WebSocketManager.Common.pdb
+D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager.Common\obj\Debug\netstandard2.0\WebSocketManager.Common.csprojAssemblyReference.cache
+D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager.Common\obj\Debug\netstandard2.0\WebSocketManager.Common.csproj.CoreCompileInputs.cache
+D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager.Common\obj\Debug\netstandard2.0\WebSocketManager.Common.AssemblyInfoInputs.cache
+D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager.Common\obj\Debug\netstandard2.0\WebSocketManager.Common.AssemblyInfo.cs
+D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager.Common\obj\Debug\netstandard2.0\WebSocketManager.Common.dll
+D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager.Common\obj\Debug\netstandard2.0\WebSocketManager.Common.pdb

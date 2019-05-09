@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Sample; 
+using ws; 
 using WebSockets.WebSocketManager;
 
 namespace WebSockets
@@ -39,7 +39,7 @@ namespace WebSockets
             app.UseMvc();
 
             app.UseWebSockets();
-            app.MapWebSocketManager("/Sample", serviceProvider.GetService<ChatMessageHandler>());
+            app.MapWebSocketManager("/ws", serviceProvider.GetService<ChatMessageHandler>());
 
             app.UseStaticFiles();
         }

@@ -1,0 +1,12 @@
+D:\Phuong\Project-demo\GitHub\websocke t-manager\samples\ChatApplication\bin\Debug\netcoreapp2.0\netcoreapp2.0\ChatApplication.deps.json
+D:\Phuong\Project-demo\GitHub\websocke t-manager\samples\ChatApplication\bin\Debug\netcoreapp2.0\netcoreapp2.0\ChatApplication.runtimeconfig.json
+D:\Phuong\Project-demo\GitHub\websocke t-manager\samples\ChatApplication\bin\Debug\netcoreapp2.0\netcoreapp2.0\ChatApplication.runtimeconfig.dev.json
+D:\Phuong\Project-demo\GitHub\websocke t-manager\samples\ChatApplication\bin\Debug\netcoreapp2.0\netcoreapp2.0\ChatApplication.dll
+D:\Phuong\Project-demo\GitHub\websocke t-manager\samples\ChatApplication\bin\Debug\netcoreapp2.0\netcoreapp2.0\ChatApplication.pdb
+D:\Phuong\Project-demo\GitHub\websocket-manager\samples\ChatApplication\obj\Debug\netcoreapp2.0\ChatApplication.csprojAssemblyReference.cache
+D:\Phuong\Project-demo\GitHub\websocket-manager\samples\ChatApplication\obj\Debug\netcoreapp2.0\ChatApplication.csproj.CoreCompileInputs.cache
+D:\Phuong\Project-demo\GitHub\websocket-manager\samples\ChatApplication\obj\Debug\netcoreapp2.0\ChatApplication.AssemblyInfoInputs.cache
+D:\Phuong\Project-demo\GitHub\websocket-manager\samples\ChatApplication\obj\Debug\netcoreapp2.0\ChatApplication.AssemblyInfo.cs
+D:\Phuong\Project-demo\GitHub\websocket-manager\samples\ChatApplication\obj\Debug\netcoreapp2.0\ChatApplication.csproj.CopyComplete
+D:\Phuong\Project-demo\GitHub\websocket-manager\samples\ChatApplication\obj\Debug\netcoreapp2.0\ChatApplication.dll
+D:\Phuong\Project-demo\GitHub\websocket-manager\samples\ChatApplication\obj\Debug\netcoreapp2.0\ChatApplication.pdb

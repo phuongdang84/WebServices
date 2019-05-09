@@ -25,3 +25,17 @@ C:\Users\XPS\OneDrive - University of Greenwich\7. COMP1108 - Project\sourcecode
 C:\Users\XPS\OneDrive - University of Greenwich\7. COMP1108 - Project\sourcecode\WebSockets\WebSockets\bin\Debug\netcoreapp2.1\WebSockets.pdb
 C:\Users\XPS\OneDrive - University of Greenwich\7. COMP1108 - Project\sourcecode\WebSockets\WebSockets\obj\Debug\netcoreapp2.1\WebSockets.dll
 C:\Users\XPS\OneDrive - University of Greenwich\7. COMP1108 - Project\sourcecode\WebSockets\WebSockets\obj\Debug\netcoreapp2.1\WebSockets.pdb
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebSockets\bin\Debug\netcoreapp2.1\WebSockets.deps.json
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebSockets\bin\Debug\netcoreapp2.1\WebSockets.runtimeconfig.json
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebSockets\bin\Debug\netcoreapp2.1\WebSockets.runtimeconfig.dev.json
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebSockets\bin\Debug\netcoreapp2.1\WebSockets.dll
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebSockets\bin\Debug\netcoreapp2.1\WebSockets.pdb
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebSockets\obj\Debug\netcoreapp2.1\WebSockets.csprojAssemblyReference.cache
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebSockets\obj\Debug\netcoreapp2.1\WebSockets.csproj.CoreCompileInputs.cache
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebSockets\obj\Debug\netcoreapp2.1\WebSockets.RazorAssemblyInfo.cache
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebSockets\obj\Debug\netcoreapp2.1\WebSockets.RazorAssemblyInfo.cs
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebSockets\obj\Debug\netcoreapp2.1\WebSockets.AssemblyInfoInputs.cache
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebSockets\obj\Debug\netcoreapp2.1\WebSockets.AssemblyInfo.cs
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebSockets\obj\Debug\netcoreapp2.1\WebSockets.RazorTargetAssemblyInfo.cache
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebSockets\obj\Debug\netcoreapp2.1\WebSockets.dll
+D:\Phuong\Project-demo\GitHub\WebServices\WebSockets\WebSockets\obj\Debug\netcoreapp2.1\WebSockets.pdb

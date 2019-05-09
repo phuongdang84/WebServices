@@ -5,7 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="wwwroot\ws\ChatMessageHandler.cs" />
+    <Content Include="ChatApplication\ChatMessageHandler.cs" />
+    <Content Include="RealTime.html" />
   </ItemGroup>
 
   <ItemGroup>
@@ -14,7 +15,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Sample\" />
+    <Folder Include="ws\" />
+    <Folder Include="wwwroot\css\" />
   </ItemGroup>
 
 </Project>
