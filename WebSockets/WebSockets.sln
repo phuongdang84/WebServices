@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatApplication", "ChatApplication\ChatApplication.csproj", "{02FE9047-202E-4C7E-8EB8-33F0D38C9FB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatApp", "ChatApplication\ChatApp.csproj", "{02FE9047-202E-4C7E-8EB8-33F0D38C9FB8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebSocketManager", "src\WebSocketManager\WebSocketManager.csproj", "{74A1FA83-C105-43C1-A151-A95821200351}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebSocketManager.Common", "src\WebSocketManager.Common\WebSocketManager.Common.csproj", "{AEE5D2B5-C0DE-481F-B871-5D71772D2714}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebService\WebService.csproj", "{400D4BEE-1DFA-4BE7-873B-46781573FB2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{AC740143-31FB-438E-AF46-9F126592B8D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{400D4BEE-1DFA-4BE7-873B-46781573FB2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{400D4BEE-1DFA-4BE7-873B-46781573FB2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{400D4BEE-1DFA-4BE7-873B-46781573FB2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC740143-31FB-438E-AF46-9F126592B8D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC740143-31FB-438E-AF46-9F126592B8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC740143-31FB-438E-AF46-9F126592B8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC740143-31FB-438E-AF46-9F126592B8D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

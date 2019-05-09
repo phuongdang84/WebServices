@@ -7250,9 +7250,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\ChatApplication\\ChatApplication.csproj",
-      "projectName": "ChatApplication",
-      "projectPath": "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\ChatApplication\\ChatApplication.csproj",
+      "projectUniqueName": "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\ChatApplication\\ChatApp.csproj",
+      "projectName": "ChatApp",
+      "projectPath": "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\ChatApplication\\ChatApp.csproj",
       "packagesPath": "C:\\Users\\phuong.dang\\.nuget\\packages\\",
       "outputPath": "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\ChatApplication\\obj\\",
       "projectStyle": "PackageReference",
