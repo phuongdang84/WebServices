@@ -10,15 +10,3 @@ D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager\obj\Debug\n
 D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager\obj\Debug\netstandard2.0\WebSocketManager.csproj.CopyComplete
 D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager\obj\Debug\netstandard2.0\WebSocketManager.dll
 D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager\obj\Debug\netstandard2.0\WebSocketManager.pdb
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager\bin\Debug\netstandard2.0\WebSocketManager.deps.json
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager\bin\Debug\netstandard2.0\WebSocketManager.dll
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager\bin\Debug\netstandard2.0\WebSocketManager.pdb
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager\bin\Debug\netstandard2.0\WebSocketManager.Common.dll
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager\bin\Debug\netstandard2.0\WebSocketManager.Common.pdb
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager\obj\Debug\netstandard2.0\WebSocketManager.csprojAssemblyReference.cache
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager\obj\Debug\netstandard2.0\WebSocketManager.csproj.CoreCompileInputs.cache
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager\obj\Debug\netstandard2.0\WebSocketManager.AssemblyInfoInputs.cache
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager\obj\Debug\netstandard2.0\WebSocketManager.AssemblyInfo.cs
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager\obj\Debug\netstandard2.0\WebSocketManager.csproj.CopyComplete
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager\obj\Debug\netstandard2.0\WebSocketManager.dll
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager\obj\Debug\netstandard2.0\WebSocketManager.pdb

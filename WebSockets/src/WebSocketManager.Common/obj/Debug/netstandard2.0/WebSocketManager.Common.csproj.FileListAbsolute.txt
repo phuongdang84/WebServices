@@ -7,12 +7,3 @@ D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager.Common\obj\
 D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager.Common\obj\Debug\netstandard2.0\WebSocketManager.Common.AssemblyInfo.cs
 D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager.Common\obj\Debug\netstandard2.0\WebSocketManager.Common.dll
 D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager.Common\obj\Debug\netstandard2.0\WebSocketManager.Common.pdb
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Common\bin\Debug\netstandard2.0\WebSocketManager.Common.deps.json
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Common\bin\Debug\netstandard2.0\WebSocketManager.Common.dll
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Common\bin\Debug\netstandard2.0\WebSocketManager.Common.pdb
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Common\obj\Debug\netstandard2.0\WebSocketManager.Common.csprojAssemblyReference.cache
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Common\obj\Debug\netstandard2.0\WebSocketManager.Common.csproj.CoreCompileInputs.cache
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Common\obj\Debug\netstandard2.0\WebSocketManager.Common.AssemblyInfoInputs.cache
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Common\obj\Debug\netstandard2.0\WebSocketManager.Common.AssemblyInfo.cs
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Common\obj\Debug\netstandard2.0\WebSocketManager.Common.dll
-D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Common\obj\Debug\netstandard2.0\WebSocketManager.Common.pdb
