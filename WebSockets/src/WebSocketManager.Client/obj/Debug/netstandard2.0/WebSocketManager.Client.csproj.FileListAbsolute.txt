@@ -10,3 +10,15 @@ D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager.Client\obj\
 D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager.Client\obj\Debug\netstandard2.0\WebSocketManager.Client.csproj.CopyComplete
 D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager.Client\obj\Debug\netstandard2.0\WebSocketManager.Client.dll
 D:\Phuong\Project-demo\GitHub\websocket-manager\src\WebSocketManager.Client\obj\Debug\netstandard2.0\WebSocketManager.Client.pdb
+D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Client\bin\Debug\netstandard2.0\WebSocketManager.Client.deps.json
+D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Client\bin\Debug\netstandard2.0\WebSocketManager.Client.dll
+D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Client\bin\Debug\netstandard2.0\WebSocketManager.Client.pdb
+D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Client\bin\Debug\netstandard2.0\WebSocketManager.Common.dll
+D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Client\bin\Debug\netstandard2.0\WebSocketManager.Common.pdb
+D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Client\obj\Debug\netstandard2.0\WebSocketManager.Client.csprojAssemblyReference.cache
+D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Client\obj\Debug\netstandard2.0\WebSocketManager.Client.csproj.CoreCompileInputs.cache
+D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Client\obj\Debug\netstandard2.0\WebSocketManager.Client.AssemblyInfoInputs.cache
+D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Client\obj\Debug\netstandard2.0\WebSocketManager.Client.AssemblyInfo.cs
+D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Client\obj\Debug\netstandard2.0\WebSocketManager.Client.csproj.CopyComplete
+D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Client\obj\Debug\netstandard2.0\WebSocketManager.Client.dll
+D:\Github\COMP1108\WebServices\WebSockets\src\WebSocketManager.Client\obj\Debug\netstandard2.0\WebSocketManager.Client.pdb

@@ -1,0 +1,12 @@
+D:\Github\COMP1108\websocke t-manager\samples\ChatApplication\bin\Debug\netcoreapp2.0\netcoreapp2.0\ChatApp.deps.json
+D:\Github\COMP1108\websocke t-manager\samples\ChatApplication\bin\Debug\netcoreapp2.0\netcoreapp2.0\ChatApp.runtimeconfig.json
+D:\Github\COMP1108\websocke t-manager\samples\ChatApplication\bin\Debug\netcoreapp2.0\netcoreapp2.0\ChatApp.runtimeconfig.dev.json
+D:\Github\COMP1108\websocke t-manager\samples\ChatApplication\bin\Debug\netcoreapp2.0\netcoreapp2.0\ChatApp.dll
+D:\Github\COMP1108\websocke t-manager\samples\ChatApplication\bin\Debug\netcoreapp2.0\netcoreapp2.0\ChatApp.pdb
+D:\Github\COMP1108\WebServices\WebSockets\ChatApplication\obj\Debug\netcoreapp2.0\ChatApp.csprojAssemblyReference.cache
+D:\Github\COMP1108\WebServices\WebSockets\ChatApplication\obj\Debug\netcoreapp2.0\ChatApp.csproj.CoreCompileInputs.cache
+D:\Github\COMP1108\WebServices\WebSockets\ChatApplication\obj\Debug\netcoreapp2.0\ChatApp.AssemblyInfoInputs.cache
+D:\Github\COMP1108\WebServices\WebSockets\ChatApplication\obj\Debug\netcoreapp2.0\ChatApp.AssemblyInfo.cs
+D:\Github\COMP1108\WebServices\WebSockets\ChatApplication\obj\Debug\netcoreapp2.0\ChatApp.csproj.CopyComplete
+D:\Github\COMP1108\WebServices\WebSockets\ChatApplication\obj\Debug\netcoreapp2.0\ChatApp.dll
+D:\Github\COMP1108\WebServices\WebSockets\ChatApplication\obj\Debug\netcoreapp2.0\ChatApp.pdb

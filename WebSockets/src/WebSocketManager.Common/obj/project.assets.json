@@ -3129,23 +3129,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\phuong.dang\\.nuget\\packages\\": {},
+    "C:\\Users\\XPS\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\src\\WebSocketManager.Common\\WebSocketManager.Common.csproj",
+      "projectUniqueName": "D:\\Github\\COMP1108\\WebServices\\WebSockets\\src\\WebSocketManager.Common\\WebSocketManager.Common.csproj",
       "projectName": "WebSocketManager.Common",
-      "projectPath": "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\src\\WebSocketManager.Common\\WebSocketManager.Common.csproj",
-      "packagesPath": "C:\\Users\\phuong.dang\\.nuget\\packages\\",
-      "outputPath": "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\src\\WebSocketManager.Common\\obj\\",
+      "projectPath": "D:\\Github\\COMP1108\\WebServices\\WebSockets\\src\\WebSocketManager.Common\\WebSocketManager.Common.csproj",
+      "packagesPath": "C:\\Users\\XPS\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\COMP1108\\WebServices\\WebSockets\\src\\WebSocketManager.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\phuong.dang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\XPS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

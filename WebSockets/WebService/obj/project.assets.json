@@ -5494,7 +5494,7 @@
       ]
     },
     "Microsoft.AspNetCore.Razor.Design/2.1.2": {
-      "sha512": "ab4+TZw3Sxqrr5TwrwVyABeQkhSxYMJXgG6yZw7T+r6Vz+hcOt+pK79o15ESG7kZvWAK9wRG7emnTIia5O6R1Q==",
+      "sha512": "fe1+dpy+eM4IX1zodsvkihO1Spuj0NecfStWzvkYoMo7/ziOsqSv4vFK36ZpBfHa4gpdCEwaU46EPzdq+ZDYhQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.razor.design/2.1.2",
       "hasTools": true,
@@ -12450,23 +12450,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\phuong.dang\\.nuget\\packages\\": {},
+    "C:\\Users\\XPS\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\WebService\\WebApp.csproj",
+      "projectUniqueName": "D:\\Github\\COMP1108\\WebServices\\WebSockets\\WebService\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\WebService\\WebApp.csproj",
-      "packagesPath": "C:\\Users\\phuong.dang\\.nuget\\packages\\",
-      "outputPath": "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\WebService\\obj\\",
+      "projectPath": "D:\\Github\\COMP1108\\WebServices\\WebSockets\\WebService\\WebApp.csproj",
+      "packagesPath": "C:\\Users\\XPS\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\COMP1108\\WebServices\\WebSockets\\WebService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\phuong.dang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\XPS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12479,14 +12479,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\src\\WebSocketManager.Client\\WebSocketManager.Client.csproj": {
-              "projectPath": "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\src\\WebSocketManager.Client\\WebSocketManager.Client.csproj"
+            "D:\\Github\\COMP1108\\WebServices\\WebSockets\\src\\WebSocketManager.Client\\WebSocketManager.Client.csproj": {
+              "projectPath": "D:\\Github\\COMP1108\\WebServices\\WebSockets\\src\\WebSocketManager.Client\\WebSocketManager.Client.csproj"
             },
-            "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\src\\WebSocketManager.Common\\WebSocketManager.Common.csproj": {
-              "projectPath": "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\src\\WebSocketManager.Common\\WebSocketManager.Common.csproj"
+            "D:\\Github\\COMP1108\\WebServices\\WebSockets\\src\\WebSocketManager.Common\\WebSocketManager.Common.csproj": {
+              "projectPath": "D:\\Github\\COMP1108\\WebServices\\WebSockets\\src\\WebSocketManager.Common\\WebSocketManager.Common.csproj"
             },
-            "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\src\\WebSocketManager\\WebSocketManager.csproj": {
-              "projectPath": "D:\\Phuong\\Project-demo\\GitHub\\WebServices\\WebSockets\\src\\WebSocketManager\\WebSocketManager.csproj"
+            "D:\\Github\\COMP1108\\WebServices\\WebSockets\\src\\WebSocketManager\\WebSocketManager.csproj": {
+              "projectPath": "D:\\Github\\COMP1108\\WebServices\\WebSockets\\src\\WebSocketManager\\WebSocketManager.csproj"
             }
           }
         }

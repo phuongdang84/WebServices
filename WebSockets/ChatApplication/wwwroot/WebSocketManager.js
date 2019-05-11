@@ -1,6 +1,3 @@
-/**
- * The WebSocketManager JavaScript Client. See https://github.com/radu-matei/websocket-manager/ for more information.
- */
 var WebSocketManager = (function () {
     /**
      * Create a new web socket manager.
@@ -18,7 +15,6 @@ var WebSocketManager = (function () {
         /**
          * Create a new networking message.
          */
-
         var Message = function (messageType, data) {
             this.$type = 'WebSocketManager.Common.Message';
             this.messageType = messageType;
@@ -62,7 +58,6 @@ var WebSocketManager = (function () {
          * @param {any} result The result of the method call.
          * @param {any} exception The remote exception of the method call.
          */
-
         var InvocationResult = function (identifier, result, exception) {
             this.$type = 'WebSocketManager.Common.InvocationResult';
             this.result = result;
@@ -75,7 +70,7 @@ var WebSocketManager = (function () {
                 this.exception = {
                     $type: "WebSocketManager.Common.RemoteException",
                     message: exception
-                };
+                }
             }
         };
 
@@ -84,7 +79,6 @@ var WebSocketManager = (function () {
         /**
          * Collection of primitive type names and their C# mappings.
          */
-
         var typemappings = {
             guid: 'System.Guid',
             uuid: 'System.Guid', // convenience alias
@@ -111,7 +105,6 @@ var WebSocketManager = (function () {
          * Generates a UUID using a random number generator and the current time.
          * This is not truly unique but it's good enough (TM).
          */
-
         var uuid = function () { // Public Domain/MIT
             var d = new Date().getTime();
             if (typeof performance !== 'undefined' && typeof performance.now === 'function') {
@@ -120,9 +113,9 @@ var WebSocketManager = (function () {
             return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
                 var r = (d + Math.random() * 16) % 16 | 0;
                 d = Math.floor(d / 16);
-                return (c === 'x' ? r : r & 0x3 | 0x8).toString(16);
+                return (c === 'x' ? r : (r & 0x3 | 0x8)).toString(16);
             });
-        };
+        }
 
         ///////////////////////////////////////////////////////////////////////////////////////////
 
@@ -130,13 +123,12 @@ var WebSocketManager = (function () {
          * Takes a C# collection of $type+$value and turns them into a simple array of values.
          * @param {any} collection The C# collection of $type+$value.
          */
-
         var parseCSharpArguments = function (collection) {
             var args = [];
             for (var i = 0; i < collection.length; i++)
                 args.push(collection[i].$value);
             return args;
-        };
+        }
 
         ///////////////////////////////////////////////////////////////////////////////////////////
 
@@ -226,13 +218,13 @@ var WebSocketManager = (function () {
 
             // METHOD RETURN VALUE EVENT
             else if (message.messageType === Message.MethodReturnValue) {
-                var _data = JSON.parse(message.data.$value);
+                var data = JSON.parse(message.data.$value);
                 // find the waiting remote invocation.
                 var callback = waitingRemoteInvocations[data.identifier.$value];
                 // remove it from the waiting list.
                 delete waitingRemoteInvocations[data.identifier.$value];
                 // call the callback.
-                if (_data.exception !== null)
+                if (data.exception !== null)
                     callback(undefined, data.exception.message.$value);
                 else
                     callback(data.result.$value, undefined);
@@ -252,7 +244,7 @@ var WebSocketManager = (function () {
 
             _this.socket.onopen = function (event) {
                 onSocketOpen(event);
-            };
+            }
 
             _this.socket.onclose = function (event) {
                 // run all the callbacks on the waiting list so the program continues.
@@ -262,15 +254,15 @@ var WebSocketManager = (function () {
                 waitingRemoteInvocations = {};
 
                 onSocketClose(event);
-            };
+            }
 
             _this.socket.onerror = function (event) {
                 onSocketError(event);
-            };
+            }
 
             _this.socket.onmessage = function (event) {
                 onSocketMessage(JSON.parse(event.data));
-            };
+            }
         };
 
         /**
@@ -294,7 +286,7 @@ var WebSocketManager = (function () {
             _this.socket.send(JSON.stringify(new Message(Message.MethodInvocation,
                 JSON.stringify(new InvocationDescriptor(method, args, '00000000-0000-0000-0000-000000000000'))
             )));
-        };
+        }
 
         /**
          * Invoke a remote method on the server, with a callback for the return value.
@@ -323,7 +315,7 @@ var WebSocketManager = (function () {
             _this.socket.send(JSON.stringify(new Message(Message.MethodInvocation,
                 JSON.stringify(new InvocationDescriptor(method, args, guid))
             )));
-        };
+        }
     };
 
     return constructor;
