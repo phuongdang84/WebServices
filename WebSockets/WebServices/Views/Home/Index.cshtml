@@ -4,7 +4,7 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>Invironment chart</h2>
+<h2>Environment</h2>
 
 <div class="row">
     <div class="col-lg-8 bigChart" data-bind="lineChart: lineChartData"></div>
@@ -14,7 +14,9 @@
                 <tr>
                     <th>#</th>
                     <th>Time</th>
-                    <th>Temperature</th>
+                    <th>Temperature (oC)</th>
+                    <th>Humidity (%)</th>
+                    <th>Moisture (%)</th>
                 </tr>
             </thead>
             <tbody data-bind="foreach: lineChartData">
@@ -22,15 +24,19 @@
                     <td data-bind="text: $index() + 1"></td>
                     <td data-bind="text: Date.toLocaleTimeString()"></td>
                     <td data-bind="text: LiquidTemp"></td>
+                    <td data-bind="text: LiquidHum"></td>
+                    <td data-bind="text: LiquidMois"></td>
                 </tr>
             </tbody>
         </table>
     </div>
 </div>
+
 @section Scripts {
     <script src="~/js/data-view-model.js"></script>
     <script src="~/js/line-chart-binding.js"></script>
-    <script>var D3KD = this.D3KD || {};
+    <script>
+        var D3KD = this.D3KD || {};
 
         (function () {
             "use strict";
@@ -48,5 +54,6 @@
             };
 
             ko.applyBindings(dataViewModel);
-        }());</script>
+        }());
+    </script>
 }

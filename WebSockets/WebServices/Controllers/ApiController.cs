@@ -10,19 +10,21 @@ namespace WebServices.Controllers
 {
     public class ApiController : Controller
     {
-        private readonly TemperatureSocketManager _socketManager;
+        private readonly EnvironmentSocketManager _socketManager;
 
-        private ApiController(TemperatureSocketManager socketManager)
+        private ApiController(EnvironmentSocketManager socketManager)
         {
             _socketManager = socketManager ;
         }
 
-        public async Task Report(double liquidTemp)
+        public async Task Report(double liqTemperature, double liqMoisture, double liqHumidity)
         {
             var reading = new
             {
                 Date = DateTime.Now,
-                LiquidTemp = liquidTemp
+                LiquidTemp = liqTemperature,
+                LiquidMois = liqMoisture,
+                LiquidHum = liqHumidity
             };
 
             await _socketManager.SendMessageToAllAsync(JsonConvert.SerializeObject(reading));
@@ -34,7 +36,7 @@ namespace WebServices.Controllers
 
             for (var i = 0; i < 100; i++)
             {
-                await Report(rnd.Next(23, 35));
+                await Report(rnd.Next(23, 35), rnd.Next(13, 85), rnd.Next(13, 45));
                 await Task.Delay(5000);
             }
         }

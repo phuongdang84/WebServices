@@ -8,13 +8,13 @@ using System.Threading.Tasks;
 
 namespace WebService
 {
-    class TemperatureSocketMiddleware
+    class EnvironmentSocketMiddleware
     {
         private readonly RequestDelegate _next;
-        private readonly TemperatureSocketManager _socketManager;
+        private readonly EnvironmentSocketManager _socketManager;
 
-        public TemperatureSocketMiddleware(RequestDelegate next,
-                                            TemperatureSocketManager socketManager)
+        public EnvironmentSocketMiddleware(RequestDelegate next,
+                                            EnvironmentSocketManager socketManager)
         {
             _next = next;
             _socketManager = socketManager;

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace WebService
 {
-    class TemperatureSocketManager
+    class EnvironmentSocketManager
     {
         private static ConcurrentDictionary<string, WebSocket> _sockets = new ConcurrentDictionary<string, WebSocket>();
 
